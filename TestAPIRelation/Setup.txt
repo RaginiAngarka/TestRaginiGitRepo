@@ -1,0 +1,2 @@
+Test Setup
+It is very hard to setup crowd.dev on local. Doesn't have clear and simple documentation around the same.
